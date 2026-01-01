@@ -1,3 +1,4 @@
+# YOU DID IT!
 This repository covered the **core Python fundamentals** (variables, control flow, functions, dictionaries, data analytics basics).
 If you completed all assignments, you now have a solid base.  
 This README explains **what to learn next**, **why it matters**, and **how to approach it** if your goal is to grow toward a **Backend Developer** or **Solutions Architect** role.

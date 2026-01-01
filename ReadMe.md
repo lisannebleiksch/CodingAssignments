@@ -124,3 +124,5 @@ You will need them later when:
 - Installing libraries like numpy, pandas, requests, fastapi
 - Working on real projects or in a team
 - When that moment comes, we will add them. or warp will
+
+poetry is a way of using virtual envs you will only 'potentiallly' need it for assignment 5, that's why there is a poetry.lock file and a pyproject.toml file in this repository
